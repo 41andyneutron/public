@@ -10,7 +10,7 @@
 *utm*
 *ads*
 *ac.id*
-wp-content
+*wp-content*
 *token*
 *gaming*
 *judi*
