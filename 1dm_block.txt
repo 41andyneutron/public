@@ -26,3 +26,4 @@
 *casino*
 *edu.my*
 *company*
+*click*
