@@ -28,3 +28,4 @@
 *company*
 *click*
 */h/*
+*cgi*
