@@ -36,4 +36,6 @@ poin
 cdn.v
 product
 player
-acid
+github
+ac
+journal
