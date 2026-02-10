@@ -27,11 +27,11 @@ casino
 edu.my
 company
 click
-/h/
+*/h/*
 cgi
 t.me
 tiktok
-/v/
+*/v/*
 poin
 cdn.v
 product
