@@ -1,7 +1,7 @@
 shop
 blibli
 lazada
-tokopedia
+toko
 catavo
 slot
 terabox
@@ -39,3 +39,4 @@ ac
 journal
 app
 alibaba
+baginda
