@@ -40,3 +40,4 @@ journal
 app
 alibaba
 baginda
+category
