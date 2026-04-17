@@ -16,7 +16,7 @@ blog
 resmi
 utm
 ads
-ac.id
+*ac.id*
 wp-content
 token
 gaming
