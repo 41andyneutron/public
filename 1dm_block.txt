@@ -1,3 +1,4 @@
+trip
 good
 switch
 trad
