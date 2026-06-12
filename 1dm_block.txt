@@ -27,6 +27,7 @@ github
 god
 good
 hoki
+html
 journal
 judi
 king
