@@ -37,6 +37,7 @@ product
 register
 resmi
 search
+smart
 share
 shop
 slot
