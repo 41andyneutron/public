@@ -18,6 +18,7 @@ cuan
 dana
 dewa
 dewi
+direct
 edu.my
 gacor
 game
