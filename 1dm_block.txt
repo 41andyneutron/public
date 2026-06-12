@@ -15,6 +15,7 @@ cgi
 click
 company
 cuan
+content
 dana
 dewa
 dewi
@@ -50,10 +51,11 @@ terabox
 tiktok
 token
 toko
+track
 trad
 trip
 url
 utm
 web
 whatsapp
-wp-content
+wp
