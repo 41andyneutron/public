@@ -5,6 +5,7 @@ alibaba
 android
 app
 baginda
+beli
 bet
 blibli
 blog
@@ -37,6 +38,7 @@ judi
 king
 lazada
 mahjong
+pay
 php
 player
 poin
