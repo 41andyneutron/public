@@ -66,3 +66,4 @@ utm
 web
 whatsapp
 wp
+zone
