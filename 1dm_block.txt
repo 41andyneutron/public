@@ -13,7 +13,6 @@ boost
 casino
 catavo
 category
-cdn.v
 cgi
 click
 company
