@@ -9,6 +9,7 @@ beli
 bet
 blibli
 blog
+boost
 casino
 catavo
 category
@@ -19,6 +20,7 @@ company
 cuan
 content
 dana
+data
 dewa
 dewi
 direct
