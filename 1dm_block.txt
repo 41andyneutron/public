@@ -18,6 +18,7 @@ click
 company
 cuan
 content
+cook
 dana
 data
 dewa
