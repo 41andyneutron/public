@@ -25,6 +25,7 @@ dewa
 dewi
 direct
 edu.my
+false
 gacor
 game
 gaming
@@ -63,6 +64,7 @@ toko
 track
 trad
 trip
+true
 url
 utm
 web
