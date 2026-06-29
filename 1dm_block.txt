@@ -39,6 +39,7 @@ indosat
 journal
 judi
 king
+lab
 lazada
 mahjong
 pay
