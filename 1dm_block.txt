@@ -41,6 +41,7 @@ judi
 king
 lab
 lazada
+link
 mahjong
 pay
 php
